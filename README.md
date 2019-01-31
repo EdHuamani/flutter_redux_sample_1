@@ -1,6 +1,6 @@
-# flutter_meetup_3
+# FlutterPeru_meetup_3
 
-A new Flutter project.
+Introducción a redux en Flutter
 
 ## Getting Started
 
